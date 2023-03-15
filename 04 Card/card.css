@@ -1,0 +1,34 @@
+article {
+    max-width: 31rem;
+    margin: 1rem;
+    border: 0.050rem solid #e6e6e6;
+    font-family: sans-serif;
+    padding-bottom: 1rem;
+  }
+  
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  h1 {
+    margin: 1rem;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin: 1rem;
+  }
+  
+  hr {
+    border: 0.050rem solid #e6e6e6;
+  }
+  
+  a {
+    font-size: 1.5rem;
+    margin: 1rem;
+    color: blue;
+  }
+  
